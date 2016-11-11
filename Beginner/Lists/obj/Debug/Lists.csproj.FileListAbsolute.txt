@@ -1,0 +1,5 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Lists\bin\Debug\Lists.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Lists\bin\Debug\Lists.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Lists\bin\Debug\Lists.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Lists\obj\Debug\Lists.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Lists\obj\Debug\Lists.pdb

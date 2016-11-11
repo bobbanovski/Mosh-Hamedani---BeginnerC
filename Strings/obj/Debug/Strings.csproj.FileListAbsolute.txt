@@ -1,0 +1,6 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Strings\bin\Debug\Strings.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Strings\bin\Debug\Strings.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Strings\bin\Debug\Strings.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Strings\obj\Debug\Strings.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Strings\obj\Debug\Strings.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringExample\bin\Debug\StringExample.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringExample\obj\Debug\StringExample.csprojResolveAssemblyReference.cache
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringExample\bin\Debug\StringExample.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringExample\bin\Debug\StringExample.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringExample\obj\Debug\StringExample.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringExample\obj\Debug\StringExample.pdb

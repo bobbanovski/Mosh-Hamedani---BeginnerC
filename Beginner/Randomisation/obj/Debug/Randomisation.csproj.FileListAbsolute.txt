@@ -1,0 +1,6 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Randomisation\bin\Debug\Randomisation.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Randomisation\bin\Debug\Randomisation.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Randomisation\bin\Debug\Randomisation.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Randomisation\obj\Debug\Randomisation.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Randomisation\obj\Debug\Randomisation.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Randomisation\obj\Debug\Randomisation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Iteration\bin\Debug\Iteration.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Iteration\bin\Debug\Iteration.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Iteration\bin\Debug\Iteration.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Iteration\obj\Debug\Iteration.csprojResolveAssemblyReference.cache
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Iteration\obj\Debug\Iteration.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Iteration\obj\Debug\Iteration.pdb

@@ -1,0 +1,6 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringBuilderEx\bin\Debug\StringBuilderEx.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringBuilderEx\bin\Debug\StringBuilderEx.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringBuilderEx\bin\Debug\StringBuilderEx.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringBuilderEx\obj\Debug\StringBuilderEx.csprojResolveAssemblyReference.cache
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringBuilderEx\obj\Debug\StringBuilderEx.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\StringBuilderEx\obj\Debug\StringBuilderEx.pdb

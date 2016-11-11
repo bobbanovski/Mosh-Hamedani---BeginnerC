@@ -1,0 +1,6 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Arrays\bin\Debug\Arrays.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Arrays\bin\Debug\Arrays.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Arrays\bin\Debug\Arrays.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Arrays\obj\Debug\Arrays.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Arrays\obj\Debug\Arrays.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache

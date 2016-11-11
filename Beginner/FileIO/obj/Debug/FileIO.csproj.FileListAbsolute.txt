@@ -1,0 +1,6 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\FileIO\bin\Debug\FileIO.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\FileIO\bin\Debug\FileIO.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\FileIO\bin\Debug\FileIO.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\FileIO\obj\Debug\FileIO.csprojResolveAssemblyReference.cache
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\FileIO\obj\Debug\FileIO.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\FileIO\obj\Debug\FileIO.pdb

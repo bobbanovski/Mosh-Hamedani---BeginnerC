@@ -1,0 +1,6 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\HackerRank\bin\Debug\HackerRank.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\HackerRank\bin\Debug\HackerRank.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\HackerRank\bin\Debug\HackerRank.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\HackerRank\obj\Debug\HackerRank.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\HackerRank\obj\Debug\HackerRank.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache

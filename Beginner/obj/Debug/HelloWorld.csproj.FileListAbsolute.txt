@@ -1,0 +1,5 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\bin\Debug\Beginner.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\bin\Debug\Beginner.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\bin\Debug\Beginner.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\obj\Debug\Beginner.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\obj\Debug\Beginner.pdb

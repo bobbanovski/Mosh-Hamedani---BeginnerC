@@ -1,0 +1,6 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Conditionals\bin\Debug\Conditionals.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Conditionals\bin\Debug\Conditionals.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Conditionals\bin\Debug\Conditionals.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Conditionals\obj\Debug\Conditionals.csprojResolveAssemblyReference.cache
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Conditionals\obj\Debug\Conditionals.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Conditionals\obj\Debug\Conditionals.pdb

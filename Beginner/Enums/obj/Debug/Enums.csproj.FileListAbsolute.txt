@@ -1,0 +1,6 @@
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Enums\bin\Debug\Enums.exe.config
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Enums\bin\Debug\Enums.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Enums\bin\Debug\Enums.pdb
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Enums\obj\Debug\Enums.csprojResolveAssemblyReference.cache
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Enums\obj\Debug\Enums.exe
+D:\Udemy Courses\Mosh Hamedani - BeginnerC\Beginner\Enums\obj\Debug\Enums.pdb
